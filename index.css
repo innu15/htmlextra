@@ -1,0 +1,40 @@
+/* .center {
+  margin: auto;
+  background: lime;
+  width: 66%;
+}
+
+.outside {
+  /* margin: 3rem 0 0 -3rem; */
+/* margin: 20px;
+  background: cyan;
+  width: 66%;
+} */
+.boxx {
+  border: 5px solid black;
+  width: 200px;
+  height: 200px;
+  margin: 20px;
+  padding: 30px;
+}
+h1 {
+  color: blue;
+}
+.circle {
+  border: 5px solid black;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
+
+.first {
+  border: 5px solid black;
+  height: 100px;
+  width: 100px;
+}
+.second {
+  background-color: aqua;
+}
+body {
+  border: 5px groove pink;
+}
